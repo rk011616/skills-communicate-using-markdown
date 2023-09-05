@@ -13,3 +13,6 @@ var myVar = "Hello, world!";
 var myVar = "Hello, World!  This doesn't look like how I remember it";
 
 
+- [ ] Turn on GitHub Pages
+- [ ] outline my portfolio
+- [ ] introduce myself to the world
